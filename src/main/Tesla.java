@@ -4,7 +4,7 @@ package main;
 public class Tesla {
 	
 	String productLine, autopilot, touchdash; 
-	int BatteryPowerRange, speed, tires;
+	int BatteryPowerRange, speed, tires, Radio;
 	
 	public Tesla() { 
 		productLine = "modelS"; 
